@@ -10,4 +10,24 @@
   "title": "Noyabrsk",
   "latitude": 63.2018,
   "longitude": 75.4509
-} ]
+},{
+  "title": "Paris",
+  "latitude": 48.8567,
+  "longitude": 2.3510
+}, {
+  "title": "Reykjavik",
+  "latitude": 64.1353,
+  "longitude": -21.8952
+}, {
+  "title": "Moscow",
+  "latitude": 55.7558,
+  "longitude": 37.6176
+},{
+  "title": "Omsk",
+  "latitude": 54.9893,
+  "longitude": 73.3682
+}, {
+  "title": "St.Petersburg",
+  "latitude": 59.9391,
+  "longitude": 30.3159
+} ] 
