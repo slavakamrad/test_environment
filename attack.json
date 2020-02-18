@@ -1,26 +1,6 @@
 [
     [
         {
-            "latitude": 38.8921,
-            "longitude": -77.0241
-        },
-        {
-            "latitude": 55.7558,
-            "longitude": 37.6176
-        }
-    ],
-    [
-        {
-            "latitude": -25.7463,
-            "longitude": 28.1876
-        },
-        {
-            "latitude": 64.1353,
-            "longitude": -21.8952
-        }
-    ],
-    [
-        {
             "latitude": 35.6785,
             "longitude": 139.6823
         },
@@ -33,16 +13,6 @@
         {
             "latitude": 35.6785,
             "longitude": 139.6823
-        },
-        {
-            "latitude": 30.3159,
-            "longitude": 30.3159
-        }
-    ],
-    [
-        {
-            "latitude": 45.4235,
-            "longitude": -75.6979
         },
         {
             "latitude": 30.3159,
